@@ -1,0 +1,56 @@
+li {
+  display: inline;
+  margin-right: 20px;
+
+}
+ul {
+  float: right;
+}
+h1 {
+  display: inline;
+}
+
+header {
+  position: fixed;
+  top: 0px;
+  height: 100px;
+  width: 100%;
+  background-color: grey;
+  display: inline;
+}
+
+input[type="Search software jobs"] {
+  float: left;
+  margin-right: 100px;
+  margin-top: 200px;
+  width: 480px;
+  height: 50px;
+  font-size: 1.5em;
+  border: 1px solid black;
+  display: inline-block;
+}
+.magnifyingbox {
+  position: relative;
+  right: 95px;
+  padding-right: 1px;
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  display: inline-table;
+  margin-top: 200px;
+  background-image: url("magnifying-glass-png");
+}
+/**
+.rowone {
+  height: 70px;
+  position: relative;
+
+}
+.rowtwo {
+  height: 70px;
+  position: relative;
+}
+.rowthree {
+  height: 70px;
+  position: relative;
+} **/
